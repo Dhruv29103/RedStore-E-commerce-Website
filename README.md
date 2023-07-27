@@ -1,7 +1,7 @@
 # RedStore-E-commerce-Website
 This ResStore-E-commerce-website contains the use of plain HTML, CSS, and JavaScript. 
 
-#About
+# About
 This RedStore is a platform for purchasing several things online with an enhanced user experience. It provides current best offers for the user who visits the website.
 
 #Live-Demo
