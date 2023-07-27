@@ -4,10 +4,10 @@ This ResStore-E-commerce-website contains the use of plain HTML, CSS, and JavaSc
 # About
 This RedStore is a platform for purchasing several things online with an enhanced user experience. It provides current best offers for the user who visits the website.
 
-#Live-Demo
+# Live-Demo
 https://dhruv29103.github.io/RedStore-E-commerce-Website/ 
 
-#Visual Demo
+# Visual Demo
 
 Home-Page
 ![image](https://github.com/Dhruv29103/RedStore-E-commerce-Website/assets/91152898/825d9dec-852a-4954-941a-10d91134e0bf) 
