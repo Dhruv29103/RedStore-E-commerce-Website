@@ -12,4 +12,6 @@ Home-Page
 Individual Product-Page
 ![image](https://github.com/Dhruv29103/RedStore-E-commerce-Website/assets/91152898/db627fe4-e7da-4b97-911f-033a4e7b7a42)
 
+Registration-Page 
+![image](https://github.com/Dhruv29103/RedStore-E-commerce-Website/assets/91152898/c615a9e4-828c-4c3f-bd40-4f63c0ce935b)
 
